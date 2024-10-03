@@ -5,6 +5,7 @@ import { NegativePoints } from "./components/sections/NegativePoints";
 import { PositivePoints } from "./components/sections/PositivePoints";
 import { Gallery } from "./components/sections/Gallery";
 import { DontAcceptImitations } from "./components/sections/DontAcceptImitations";
+import { Differentials } from "./components/sections/Differentials";
 
 export default function Home() {
   return (
@@ -19,6 +20,7 @@ export default function Home() {
       <PositivePoints />
       <Gallery />
       <DontAcceptImitations />
+      <Differentials />
     </div>
   )
 }
