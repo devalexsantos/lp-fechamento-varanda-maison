@@ -4,6 +4,7 @@ import { WhatsAppButton } from "./components/ui/WhatsAppButton";
 import { NegativePoints } from "./components/sections/NegativePoints";
 import { PositivePoints } from "./components/sections/PositivePoints";
 import { Gallery } from "./components/sections/Gallery";
+import { DontAcceptImitations } from "./components/sections/DontAcceptImitations";
 
 export default function Home() {
   return (
@@ -17,6 +18,7 @@ export default function Home() {
       <NegativePoints />
       <PositivePoints />
       <Gallery />
+      <DontAcceptImitations />
     </div>
   )
 }
