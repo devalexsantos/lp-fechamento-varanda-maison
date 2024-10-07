@@ -21,7 +21,7 @@ export function DontAcceptImitations() {
         <span className="text-primary text-4xl font-black text-center">Imitações</span>
       </div>
 
-      <h3 className="text-3xl text-primary text-center">Quando você olha apenas preço e opta por empresas que oferecem sistemas "tipo Reiki", acontece o seguinte:</h3>
+      <h3 className="text-3xl text-primary text-center">Quando você olha apenas preço e opta por empresas que oferecem sistemas &ldquo;tipo Reiki&ldquo;, acontece o seguinte:</h3>
 
       <div className="flex flex-col items-start md:items-center gap-3 w-full">
         {
