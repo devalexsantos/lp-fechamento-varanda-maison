@@ -7,6 +7,7 @@ import { Gallery } from "./components/sections/Gallery";
 import { DontAcceptImitations } from "./components/sections/DontAcceptImitations";
 import { Differentials } from "./components/sections/Differentials";
 import { ProTips } from "./components/sections/ProTips";
+import { Footer } from "./components/Footer";
 
 export default function Home() {
   return (
@@ -23,6 +24,7 @@ export default function Home() {
       <DontAcceptImitations />
       <Differentials />
       <ProTips />
+      <Footer />
     </div>
   )
 }

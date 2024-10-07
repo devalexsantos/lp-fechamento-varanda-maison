@@ -45,7 +45,7 @@ export function Differentials() {
       <div className="flex flex-col md:flex-row md:flex-wrap justify-center items-center gap-3">
         {
           differentials.map((differential, index) => (
-            <div key={index} className="text-primary flex gap-3 items-center justify-start bg-white w-full max-w-[400px] p-4">
+            <div key={index} className="text-primary flex gap-3 items-center justify-start bg-white w-full max-w-[450px] p-4">
               <Image src={differential.image} alt={`${differential.title} ${differential.subtitle}`} width={64} height={64} />
               <div className="flex flex-col text-left">
                 <span data-highlighted={differential.highlighted} className="text-2xl data-[highlighted=title]:font-black text-primary">{differential.title}</span>
