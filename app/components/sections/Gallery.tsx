@@ -54,7 +54,7 @@ export function Gallery() {
 
 
   return (
-    <div className="flex flex-col gap-8 px-8 py-12 bg-primary">
+    <div className="flex flex-col items-center gap-8 px-8 py-12 bg-primary">
       <div className="embla relative">
         <div className="embla__viewport" ref={emblaRef}>
           <div className="embla__container">
