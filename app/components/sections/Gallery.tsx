@@ -70,6 +70,15 @@ export function Gallery() {
       </div>
 
       <span className="text-white text-2xl text-center">Confira no vídeo abaixo o <strong>fácil manuseio</strong> e <strong>abertura total</strong> das lâminas de vidro</span>
+
+      <iframe
+        className="w-full max-w-[764px] h-[315px] md:h-[560px]"
+        src="https://www.youtube.com/embed/gX2ZbLcP_GE?si=WcaJNRdVckV4FeYu"
+        title="YouTube video player"
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+        allowFullScreen
+        referrerPolicy="strict-origin-when-cross-origin"
+      />
       <WhatsAppButton color="orange" />
     </div>
   )
