@@ -7,7 +7,7 @@ export function Footer() {
 
       <div className="w-full max-w-[764px] flex flex-col gap-8 items-center">
         <p className="text-left md:text-center text-xl">
-          Há <strong className="font-black">13 anos</strong> trabalhamos com as melhores marcas e sistemas de envidraçamento do mercado.
+          Há <strong className="font-black">14 anos</strong> trabalhamos com as melhores marcas e sistemas de envidraçamento do mercado.
           Oferecemos soluções completas em vidros para apartamentos, casas e empresas.
         </p>
 
