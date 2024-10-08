@@ -15,9 +15,9 @@ export function DontAcceptImitations() {
   return (
     <div className="p-8 text-primary flex flex-col items-center gap-10">
       <div className="flex flex-col items-center">
-        <Image src="/triangle-alert.svg" alt="Alert" width={80} height={80} />
+        <Image src="/alert-red.svg" alt="Alert" width={80} height={80} />
         <span className="text-primary text-4xl font-black text-center">Não aceite</span>
-        <Image src="/separator.svg" alt="Separator" width={0} height={0} className="w-full max-w-[300px]" />
+        <Image src="/separator-red.svg" alt="Separator" width={0} height={0} className="w-full max-w-[300px]" />
         <span className="text-primary text-4xl font-black text-center">Imitações</span>
       </div>
 

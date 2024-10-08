@@ -38,7 +38,7 @@ export function Differentials() {
   return (
     <div className="p-8 bg-primary flex flex-col items-center gap-8 text-white text-center">
       <div className="flex flex-col items-center">
-        <h3 className="text-3xl">Você merece o melhor!</h3>
+        <h3 className="text-3xl">Você merece o melhor,</h3>
         <h3 className="text-3xl font-black">Reiki só original!</h3>
       </div>
 

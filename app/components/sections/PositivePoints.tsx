@@ -1,11 +1,11 @@
 import Image from 'next/image'
 
 const positivePoints = [
-  "Abertura total de 100% das lâminas de vidro com fácil manuseio",
-  "Vedação contra: ruídos externos, salitre, poluição, chuvas e ventas",
-  "Aproveitar mais a sua varanda independente do clima favorável",
-  "Ganhar um novo ambiente, como uma varanda gourmet para confraternizar com sua família e receber amigos",
-  "Integração da varanda com a sala, ganhando muito mais espaço e conforto"
+  "Abertura total de 100% das lâminas de vidro com fácil manuseio.",
+  "Vedação contra: ruídos externos, salitre, poluição, chuvas e ventos.",
+  "Aproveitar mais a sua varanda independente do clima favorável.",
+  "Ganhar um novo ambiente, como uma varanda gourmet para confraternizar com sua família e receber amigos.",
+  "Integração da varanda com a sala, ganhando muito mais espaço e conforto."
 ]
 
 export function PositivePoints() {

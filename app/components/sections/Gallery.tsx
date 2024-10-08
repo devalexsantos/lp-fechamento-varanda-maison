@@ -14,10 +14,10 @@ import { WhatsAppButton } from '../ui/WhatsAppButton';
 
 const galleryImages = [
   {
-    src: "/galeria-maison-01.jpg",
+    src: "/gallery-maison-01.jpg",
   },
   {
-    src: "/galeria-maison-02.jpg",
+    src: "/gallery-maison-2.jpg",
   },
   {
     src: "/galeria-maison-03.jpg",
