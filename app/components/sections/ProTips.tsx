@@ -10,13 +10,23 @@ export function ProTips() {
         <p className="text-xl text-center">Veja alguns exemplos de integração de ambientes com Reiki:</p>
         <div className="flex flex-col gap-4 md:flex-row">
 
-          <Link href="https://youtu.be/YXrdYXAgNfc" target="_blank">
-            <Image src="/dicas-de-arquitetos-1.png" alt="Dicas de arquitetos" width={350} height={145} />
-          </Link>
+          <iframe
+            className="w-full max-w-[764px] h-[315px] md:h-[560px]"
+            src="https://www.youtube.com/embed/YXrdYXAgNfc?si=waMEZdVGj7HA1vIg"
+            title="YouTube video player"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+            allowFullScreen
+            referrerPolicy="strict-origin-when-cross-origin"
+          />
 
-          <Link href="https://youtu.be/vg60BLf4Mzc" target="_blank">
-            <Image src="/dicas-de-arquitetos-2.png" alt="Dicas de arquitetos" width={350} height={145} />
-          </Link>
+          <iframe
+            className="w-full max-w-[764px] h-[315px] md:h-[560px]"
+            src="https://www.youtube.com/embed/vg60BLf4Mzc?si=9hA9vgUXO1vAmbMu"
+            title="YouTube video player"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+            allowFullScreen
+            referrerPolicy="strict-origin-when-cross-origin"
+          />
         </div>
       </div>
     </div>
