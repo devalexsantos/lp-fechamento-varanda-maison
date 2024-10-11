@@ -5,7 +5,7 @@ const positivePoints = [
   "Vedação contra: ruídos externos, salitre, poluição, chuvas e ventos.",
   "Aproveitar mais a sua varanda independente do clima favorável.",
   "Ganhar uma varanda gourmet para confraternizar com sua família e receber amigos.",
-  "Integração da varanda com a sala, ganhando muito mais espaço e conforto."
+  "Integrar a sala com a varanda ganhando muito mais espaço e conforto."
 ]
 
 export function PositivePoints() {

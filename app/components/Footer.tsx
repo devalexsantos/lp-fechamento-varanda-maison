@@ -54,11 +54,11 @@ export function Footer() {
           <span className="w-full text-left md:text-center font-black text-xl">Endereços:</span>
 
           <span className="w-full text-left md:text-center text-xl">
-            - Loja: Shopping Boulevard, 161 Itaigara, Salvador - BA
+            - Loja: Shopping Boulevard 161, Itaigara  - Salvador (BA)
           </span>
           <span className="w-full text-left md:text-center text-xl">
-            - Fábrica: Rua Araújo Bastos, 27 Pituaçu, Salvador - BA
-          </span>
+            - Fábrica: Rua Araújo Bastos 27, Pituaçu - Salvador (BA)
+                                              </span>
         </div>
 
         <WhatsAppButton color="green" />
