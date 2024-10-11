@@ -1,6 +1,3 @@
-import Image from 'next/image'
-import Link from 'next/link'
-
 export function ProTips() {
   return (
     <div className="flex flex-col gap-4 px-4 py-12 text-primary">
