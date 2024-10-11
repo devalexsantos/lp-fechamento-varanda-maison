@@ -45,7 +45,7 @@ export function Footer() {
 
           <span className="flex gap-2 items-center text-xl">
             <Image src="/check-green.svg" alt="Check" width={24} height={24} quality={100} />
-            Vidros  Blindex e Habiat
+            Vidros  Blindex e Habitat
           </span>
 
         </div>
@@ -58,7 +58,7 @@ export function Footer() {
           </span>
           <span className="w-full text-left md:text-center text-xl">
             - Fábrica: Rua Araújo Bastos 27, Pituaçu - Salvador (BA)
-                                              </span>
+                                                          </span>
         </div>
 
         <WhatsAppButton color="green" />
